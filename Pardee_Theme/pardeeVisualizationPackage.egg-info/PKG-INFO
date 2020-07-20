@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pardeeVisualizationPackage
-Version: 0.0.1
+Version: 0.1.0
 Summary: Package for converting seaborn visualizations into Pardee Center Friendly Packages
 Home-page: https://github.com/Coryv221/Pardee_Theme
 Author: Cory Vandenberg

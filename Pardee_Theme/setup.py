@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pardeeVisualizationPackage",
-    version="0.0.1",
+    version="0.1.0",
     author="Cory Vandenberg",
     author_email="cory.vandenberg@du.edu",
     description="Package for converting seaborn visualizations into Pardee Center Friendly Packages",
