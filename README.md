@@ -9,7 +9,8 @@ Package used internally at the Pardee Center to create a consistent and recogniz
 ----
 VERSION
 
-version 0.1
+Version 0.1
+
 Note: Early Production
 ----
 AUTHOR
