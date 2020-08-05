@@ -7,7 +7,7 @@ Package used internally at the Pardee Center to create a consistent and recogniz
 ----
 VERSION
 version 0.1
-Note: Early Production - Likely Unstable - Frequent Updates Expected
+Note: Early Production
 ----
 AUTHOR
 Created by Cory Vandenberg for use by the Pardee Center for International Futures
@@ -48,5 +48,11 @@ Contains usage of all included files in the package
 	proper argument inputs
 	useage with a dataset (COLT_data)
 	typical dependencies and imports when working with Pardee_Theme
+----
+ADITIONAL NOTES AND STYLE REQUIRMENTS
+All Pardee images will be exported natively as either PDFs or PNGs. This is on a case by case basis.
+For exporting images, we will always export at a DPI (dots per inch) of 300 unless told otherwise.
+	Example: plt.savefig("Pg. 23; Figure 9; GDPExports.pdf", dpi = 300)
+
 
 
